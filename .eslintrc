@@ -1,0 +1,4 @@
+{
+  "extends": "@felipstein/eslint-config-node",
+  "ignorePatterns": ["lib"]
+}
